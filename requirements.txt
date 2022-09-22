@@ -1,0 +1,17 @@
+matplotlib==3.5.1
+networkx==2.8
+numpy==1.19.5
+pandas==1.4.2
+prettytable==3.2.0
+pycaret==2.3.10
+requests==2.27.1
+scikit_learn==1.1.2
+scipy==1.5.4
+seaborn==0.11.2
+torch==1.8.0
+torch_geometric==1.7.1
+torch_scatter==2.0.8
+torchinfo==1.6.5
+torchvision==0.9.0
+tqdm==4.64.0
+xgboost==1.6.0
